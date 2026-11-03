@@ -1,0 +1,56 @@
+{
+  "name": "Zhengquan Sun",
+  "position": "",
+  "affiliation": "Beihang University & Zhongguancun Laboratory",
+  "affiliationUrl": "",
+  "email": "szq_buaa@buaa.edu.cn",
+  "portrait": "",
+  "description": "Zhengquan Sun — research on autonomous driving safety, physical adversarial object generation, and multimodal scene reconstruction.",
+  "about": [
+    "I am affiliated with Beihang University and Zhongguancun Laboratory.",
+    "My research focuses on the safety evaluation of autonomous driving models using multimodal sensor data, with particular interests in physical adversarial object generation and feed-forward multimodal scene reconstruction."
+  ],
+  "interests": [
+    "Autonomous Driving Safety",
+    "Physical Adversarial Objects",
+    "Multimodal Scene Reconstruction"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/qjfysun"
+    }
+  ],
+  "news": [],
+  "publications": [
+    {
+      "title": "MiuGS: Modality-Integrated Unified Gaussian Representation for Physical Adversarial Object Generation in 3D Detection",
+      "authors": [
+        "Zhengquan Sun",
+        "Jin Hu",
+        "Tianyuan Zhang",
+        "Fei Xiansong",
+        "Xiaoqi Jiang",
+        "Jiakai Wang",
+        "Xianglong Liu"
+      ],
+      "venue": "ACM Multimedia (MM)",
+      "year": "2026",
+      "url": "https://doi.org/10.1145/3767308.3836481",
+      "summary": "A shared 3D Gaussian representation for generating adversarial objects with consistent camera and LiDAR observations, supporting the robustness evaluation of multimodal 3D detectors.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1145/3767308.3836481"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/qjfysun/MiuGS"
+        }
+      ],
+      "bibtex": "@inproceedings{sun2026miugs,\n  title={MiuGS: Modality-Integrated Unified Gaussian Representation for Physical Adversarial Object Generation in 3D Detection},\n  author={Sun, Zhengquan and Hu, Jin and Zhang, Tianyuan and Xiansong, Fei and Jiang, Xiaoqi and Wang, Jiakai and Liu, Xianglong},\n  booktitle={Proceedings of the 34th ACM International Conference on Multimedia},\n  year={2026},\n  doi={10.1145/3767308.3836481}\n}"
+    }
+  ],
+  "education": [],
+  "service": []
+}
