@@ -10,3 +10,5 @@
 
 /* Keep the full hairline visible when cropping the profile photo. */
 .portrait{object-position:center top}
+
+.advisor-link{text-decoration:underline;text-decoration-thickness:1px}

@@ -52,5 +52,17 @@
     }
   ],
   "education": [],
-  "service": []
+  "service": [],
+  "advisors": [
+    {
+      "title": "Prof.",
+      "name": "Xianglong Liu",
+      "url": "https://xlliu-beihang.github.io/"
+    },
+    {
+      "title": "Dr.",
+      "name": "Jiakai Wang",
+      "url": "https://jiakaiwangcn.github.io/"
+    }
+  ]
 }
