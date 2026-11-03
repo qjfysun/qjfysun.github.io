@@ -9,4 +9,4 @@
 @media print{.topbar,.theme-toggle,.sidebar-note,.skip-link,.copy-citation,footer>a{display:none}.page{display:block;padding:0}.profile{position:static;margin-bottom:30px}.monogram{display:none}.section{break-inside:avoid}body{background:white;color:black}.profile-links{flex-direction:row;gap:20px}}
 
 /* Keep the full hairline visible when cropping the profile photo. */
-.portrait{object-position:center 15%}
+.portrait{object-position:center top}
