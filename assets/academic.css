@@ -7,3 +7,6 @@
 @media(max-width:620px){.topbar{min-height:72px;padding:0 22px;gap:16px}.topbar nav{gap:14px;font-size:11px}.wordmark{font-size:13px}.page{display:block;padding:32px 24px 0}.profile{position:static;border-bottom:1px solid var(--line);padding-bottom:27px;margin-bottom:32px;min-height:140px}.monogram,.portrait{float:right;width:94px;height:106px;margin:0 0 12px 20px}.monogram{font-size:56px}.monogram span{font-size:5px;letter-spacing:.8px;bottom:12px}.monogram:before{inset:7px}.profile h1{font-size:27px}.profile-links{margin-top:14px;gap:3px}.sidebar-note{display:none}.intro>h2{font-size:40px}.intro-text{font-size:15px}.section{margin-top:34px}.section h2{font-size:23px}.news-list li,.education-list li{gap:16px}.paper{gap:12px}.topbar{flex-wrap:wrap}.theme-toggle{width:26px;height:26px;font-size:18px}footer{margin-top:35px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media print{.topbar,.theme-toggle,.sidebar-note,.skip-link,.copy-citation,footer>a{display:none}.page{display:block;padding:0}.profile{position:static;margin-bottom:30px}.monogram{display:none}.section{break-inside:avoid}body{background:white;color:black}.profile-links{flex-direction:row;gap:20px}}
+
+/* Keep the full hairline visible when cropping the profile photo. */
+.portrait{object-position:center 15%}
